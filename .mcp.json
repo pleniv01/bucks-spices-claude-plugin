@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bucks-spices": {
+      "type": "http",
+      "url": "https://answers.bucksspices.com/mcp"
+    }
+  }
+}

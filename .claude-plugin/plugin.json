@@ -1,0 +1,11 @@
+{
+  "name": "bucks-spices",
+  "displayName": "Buck's Spices",
+  "version": "1.0.2",
+  "description": "Explore Buck's Spices products, culinary substitutions, guides and recipe shopping links.",
+  "author": {
+    "name": "Buck's Spices"
+  },
+  "homepage": "https://bucksspices.com",
+  "license": "MIT"
+}
