@@ -10,7 +10,7 @@ The plugin uses public, read-only catalog tools without requiring a store login.
 
 - What can I use instead of asafoetida?
 - What are Tasmanian peppercorns, and how do I cook with them?
-- How can I make a copycat version of a famous fried chicken seasoning at home?
+- How does Dishoom make its House Black Daal, and what spices do I need?
 - My family is from Addis Ababa. What spices do I need to cook the food I grew up with?
 - Build me a cart for chicken tikka masala.
 
