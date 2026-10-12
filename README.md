@@ -9,7 +9,7 @@ The plugin uses public, read-only catalog tools without requiring a store login.
 - What can I use instead of asafoetida?
 - Build me a cart for nam ngiao.
 - Gift ideas under $40 for a tea lover.
-- What is dok ngiao, and how is it used in cooking?
+- What are Tasmanian peppercorns, and how do I cook with them?
 - Tell me about your sencha and link a preparation guide.
 
 ## Data and privacy
