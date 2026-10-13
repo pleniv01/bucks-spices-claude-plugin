@@ -25,6 +25,7 @@ Claude connects to Buck's public MCP endpoint at **https://answers.bucksspices.c
 | `find_substitutes` | The ingredient name and any optional cooking context Claude includes. |
 | `build_cart_link` | Selected variant IDs and quantities. |
 | `get_starter_kit` | The cuisine and optional region. |
+| `find_published_recipe` | Dish name and optional chef or restaurant. |
 | `search_guides` | Your guide search query and result limit. |
 
 MCP initialization also sends client identification and protocol information. The plugin does not require your name, email, delivery address, payment information or full conversation. Avoid including personal details in queries or cooking context. Guide searches forward the search query to the Buck's Shopify storefront; catalog reads retrieve product data from Shopify, and guide results may also include public Spice Barista Corner Q&As. These tools do not call the Barista's language model.

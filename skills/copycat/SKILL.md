@@ -1,15 +1,15 @@
 ---
 name: copycat
-description: Use when someone asks how a restaurant, chain or brand makes a dish, drink or seasoning, or wants a copycat or "tastes like" version to make at home.
+description: "Use when someone asks how a restaurant, chef, cookbook author or brand makes a dish, drink or seasoning; asks for a restaurant's or chef's recipe, its quantities, or 'your version' of it (for example Dishoom, Ottolenghi, Momofuku, Zuni, KFC); or wants a copycat or 'tastes like' version to make at home."
 ---
 Never claim a recipe is the official or secret one. Buck's isn't affiliated with any restaurant or chef.
 
-First decide which case applies. If you're unsure whether a recipe has been published, call search_guides, and for chefs and restaurants known for their cookbooks, treat it as case A.
+First decide which case applies. If you're unsure whether a recipe has been published, call find_published_recipe, and for chefs and restaurants known for their cookbooks, treat it as case A.
 
 ## Case A: the recipe has been published
 The chef or restaurant has printed it in a cookbook or on an authorized page.
 
-- Say so. Name the book, and link the authorized recipe if one exists.
+- Call find_published_recipe first. Name the book and link the book page and the authorized recipe if the tool returns them. Never invent a link.
 - Don't reconstruct, approximate or rewrite the published recipe, even if asked for "your version," "roughly," or "just the quantities."
 - Explain what defines the dish and what each key spice contributes. Call search_guides for a Buck's pantry post or a Buck's recipe for the traditional dish, and use search_products to help stock the pantry.
 - If the dish is a traditional one the restaurant didn't invent (black dal, biryani, masala chai), you may give a general version of the traditional dish, presented clearly as the traditional dish, not the restaurant's. Prefer Buck's own recipe if search_guides finds one.

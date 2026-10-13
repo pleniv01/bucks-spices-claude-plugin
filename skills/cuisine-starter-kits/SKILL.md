@@ -1,6 +1,6 @@
 ---
 name: cuisine-starter-kits
-description: Use when someone wants to start cooking a cuisine, stock a pantry for it, or find the flavors of a place they or their family come from.
+description: "Use when someone wants to start cooking a cuisine or region, stock a pantry for it, find the essential spices of a cuisine, or recreate the flavors of a place they or their family come from."
 ---
 Many people asking this are cooking the food of home: a parent's kitchen, a country they left, a grandmother's town. If someone mentions that, acknowledge it warmly in a sentence, then get specific. Specific is what they want.
 
