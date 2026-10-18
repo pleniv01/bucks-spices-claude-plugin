@@ -1,11 +1,13 @@
 {
   "name": "bucks-spices",
   "displayName": "Buck's Spices",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "Explore Buck's Spices products, culinary substitutions, guides and recipe shopping links.",
   "author": {
-    "name": "Buck's Spices"
+    "name": "Buck's Spices",
+    "url": "https://bucksspices.com"
   },
   "homepage": "https://bucksspices.com",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/pleniv01/bucks-spices-claude-plugin"
 }

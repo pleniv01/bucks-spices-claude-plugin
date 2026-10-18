@@ -2,7 +2,7 @@
 
 Meet the Spice Barista from [Buck's Spices](https://bucksspices.com), a family-run shop since 1973. Ask about small-batch spices, teas, culinary dried mushrooms, botanicals and hard-to-find ingredients. Get substitution ideas, links to the store's guides, and a prefilled cart for any recipe, after you confirm sizes and quantities.
 
-Ask how a favorite restaurant dish is made and get a home version with the spices to match. Find the essential spices of a cuisine, including the flavors of home. Cart links include 10% off for Claude users.
+Ask how a favorite restaurant dish is made and get a home version with the spices to match. Explore regional ingredients, including the flavors of home, and shop for a particular recipe. Curated starter kits remain unavailable until ingredient mappings and recipes are reviewed and approved. Live gift-box contents and new teas come from the current catalog rather than a fixed assortment bundled with this plugin. Cart links include 10% off when the tool returns an active discount code.
 
 The plugin uses public, read-only catalog tools without requiring a store login. It links directly to product pages and does not place orders or reserve inventory.
 
@@ -35,6 +35,10 @@ Application tool logs record the tool name, latency, result count and an error f
 Product prices and availability can be up to 15 minutes old; the server refreshes the catalog on demand and reports an error if fresh data cannot be loaded. Cart links open bucksspices.com, where the store's normal checkout and privacy practices apply.
 
 Links to bucksspices.com include standard tracking parameters (utm_source=claude) so Buck's can see visits and orders that came from Claude, and cart links may include the Claude discount code. They contain no personal information.
+
+## Support and store policies
+
+For product questions and plugin support, email [bucksspices@gmail.com](mailto:bucksspices@gmail.com). See the store's [privacy policy](https://bucksspices.com/policies/privacy-policy) and [terms of service](https://bucksspices.com/policies/terms-of-service). The data handling above describes the MCP service specifically; hosting providers may also retain operational network metadata under their own policies.
 
 ## License
 
