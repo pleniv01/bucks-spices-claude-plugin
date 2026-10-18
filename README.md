@@ -16,6 +16,8 @@ The plugin uses public, read-only catalog tools without requiring a store login.
 
 ## Data and privacy
 
+Read the [MCP privacy notice](PRIVACY.md) for collection, use, retention, service providers and your choices. It supplements the store privacy policy.
+
 Claude connects to Buck's public MCP endpoint at **https://answers.bucksspices.com/mcp**. When Claude calls a tool, it sends the following information to Buck's:
 
 | Tool | Information sent |
@@ -38,7 +40,7 @@ Links to bucksspices.com include standard tracking parameters (utm_source=claude
 
 ## Support and store policies
 
-For product questions and plugin support, email [bucksspices@gmail.com](mailto:bucksspices@gmail.com). See the store's [privacy policy](https://bucksspices.com/policies/privacy-policy) and [terms of service](https://bucksspices.com/policies/terms-of-service). The data handling above describes the MCP service specifically; hosting providers may also retain operational network metadata under their own policies.
+For product questions and plugin support, email [bucksspices@gmail.com](mailto:bucksspices@gmail.com). See the store's [privacy policy](https://bucksspices.com/policies/privacy-policy) and [terms of service](https://bucksspices.com/policies/terms-of-service). The [MCP privacy notice](PRIVACY.md) describes this connector's data handling and provider retention separately from store checkout.
 
 ## License
 
